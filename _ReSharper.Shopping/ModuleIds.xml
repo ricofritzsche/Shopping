@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03" ModuleId="Shopping.Service" />
+  <Module PersistentId="0D7378F2-97AC-41DF-AC44-53136BD69B47" ModuleId="Shopping.Domain" />
+  <Module PersistentId="B7853A1A-BA01-46B7-B65A-513603F3FAED" ModuleId="Shopping.Interfaces" />
+</Modules>

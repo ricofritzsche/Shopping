@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.UI", "Shopping.UI\Shopping.UI.csproj", "{A7D5B973-96A7-4B8E-87C1-F9428FCAA351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Service", "Shopping.Service\Shopping.Service.csproj", "{EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Domain", "Shopping.Domain\Shopping.Domain.csproj", "{0D7378F2-97AC-41DF-AC44-53136BD69B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Interfaces", "Shopping.Interfaces\Shopping.Interfaces.csproj", "{B7853A1A-BA01-46B7-B65A-513603F3FAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D5B973-96A7-4B8E-87C1-F9428FCAA351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D5B973-96A7-4B8E-87C1-F9428FCAA351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D5B973-96A7-4B8E-87C1-F9428FCAA351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D5B973-96A7-4B8E-87C1-F9428FCAA351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB52A2C1-58BB-4ADC-A502-EEEC2ABD3D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7378F2-97AC-41DF-AC44-53136BD69B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7378F2-97AC-41DF-AC44-53136BD69B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7378F2-97AC-41DF-AC44-53136BD69B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7378F2-97AC-41DF-AC44-53136BD69B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7853A1A-BA01-46B7-B65A-513603F3FAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7853A1A-BA01-46B7-B65A-513603F3FAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7853A1A-BA01-46B7-B65A-513603F3FAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7853A1A-BA01-46B7-B65A-513603F3FAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

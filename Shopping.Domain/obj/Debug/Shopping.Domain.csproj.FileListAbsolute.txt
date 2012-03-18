@@ -1,0 +1,7 @@
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\bin\Debug\Shopping.Domain.dll
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\bin\Debug\Shopping.Domain.pdb
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\bin\Debug\Shopping.Interfaces.dll
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\bin\Debug\Shopping.Interfaces.pdb
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\obj\Debug\Shopping.Domain.dll
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.Domain\obj\Debug\Shopping.Domain.pdb

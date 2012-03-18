@@ -1,0 +1,5 @@
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.UI\bin\Shopping.UI.dll
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.UI\bin\Shopping.UI.pdb
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.UI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.UI\obj\Debug\Shopping.UI.dll
+c:\users\rico.fritzsche\shopping\Shopping\Shopping.UI\obj\Debug\Shopping.UI.pdb
